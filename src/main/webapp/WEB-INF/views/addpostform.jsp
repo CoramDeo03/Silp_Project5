@@ -16,6 +16,7 @@
     <tr><td>책 제목</td><td><input type="text" name="bookTitle"/></td></tr>
     <tr><td>책 저자</td><td><input type="text" name="bookWriter"/></td></tr>
     <tr><td>출판사</td><td><input type="text" name="publisher"/></td></tr>
+<%--    <tr><td>장르</td><td><input type="radio" name="genre" value="추리"/><input type="radio" name="genre" value="스릴러"/><input type="radio" name="genre" value="공포"/><input type="radio" name="genre" value="과학"/><input type="radio" name="genre" value="고전"/><input type="radio" name="genre" value="판타지"/></td></tr>--%>
     <tr><td>등록번호</td><td><input type="text" name="regNumber"/></td></tr>
     <tr><td>ISBN</td><td><input type="text" name="isbn"/></td></tr>
     <tr><d>남은 책 갯수</d><td><input type="number" name="leftBook"/></td></tr>

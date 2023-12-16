@@ -9,7 +9,6 @@
     <th>bookTitle</th>
     <th>bookWriter</th>
     <th>publisher</th>
-    <%--    <th>genre</th>--%>
     <th>publicationDate</th>
     <th>regNumber</th>
     <th>ISBN</th>
@@ -24,7 +23,6 @@
       <td>${u.bookTitle}</td>
       <td>${u.bookWriter}</td>
       <td>${u.publisher}</td>
-        <%--      <td>${u.genre}</td>--%>
       <td>${u.publicationDate}</td>
       <td>${u.regNumber}</td>
       <td>${u.isbn}</td>

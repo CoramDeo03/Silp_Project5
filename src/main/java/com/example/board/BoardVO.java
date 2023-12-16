@@ -9,12 +9,15 @@ public class BoardVO {
     private String publisher;
     private String regNumber;
     private String isbn;
+//    private String genre;
+
     private Date publicationDate;
     private int leftBook;
 
     public int getSeq() {
         return seq;
     }
+
     public void setSeq(int seq) {
         this.seq = seq;
     }
@@ -75,3 +78,12 @@ public class BoardVO {
         this.leftBook = leftBook;
     }
 }
+
+//    public String getGenre() {
+//        return genre;
+//    }
+//
+//    public void setGenre(String genre) {
+//        this.genre = genre;
+//    }
+//}

@@ -13,7 +13,6 @@
     <tr><td>책 제목</td><td><form:input path="bookTitle" /></td></tr>
     <tr><td>책 저자</td><td><form:input path="bookWriter" /></td></tr>
     <tr><td>출판사</td><td><form:input path="publisher" /></td></tr>
-      <%--    <tr><td>장르</td><td><form:input path="genre" /></td></tr>--%>
     <tr><td>등록번호</td><td><form:input path="regNumber" /></td></tr>
     <tr><td>ISBN</td><td><form:input path="isbn" /></td></tr>
     <tr><td>남은 책 갯수</td><td><form:input path="leftBook" /></td></tr>
